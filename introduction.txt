@@ -1,1 +1,5 @@
-"My name is Achraf Lachgar, and I am a full-stack developer specializing in the MERN stack (MongoDB, Express.js, React, and Node.js)"
+Brief Introduction About Myself
+
+My name is Achraf Lachgar, and I am a full-stack developer specializing in the MERN stack (MongoDB, Express.js, React, and Node.js). I am passionate about building efficient web applications and continuously learning new technologies.
+
+In addition to coding, I enjoy solving real-world problems and collaborating with teams on exciting digital projects. I believe in writing clean, maintainable code and delivering impactful solutions.
