@@ -1,0 +1,7 @@
+My Personal and Academic Goals for Next Year
+
+1. Complete a full-stack portfolio project.
+2. Contribute to an open-source project.
+3. Improve my problem-solving skills through daily coding practice.
+4. Learn DevOps basics and CI/CD pipelines.
+5. Achieve high grades in all academic subjects.
